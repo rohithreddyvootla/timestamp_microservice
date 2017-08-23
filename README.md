@@ -1,6 +1,6 @@
 # API BaseJump: Timestamp Microservice
 
-This is a simple exercise from part of free code camp back end certification
+This is a simple exercise from free code camp's back end certification
 
 # User Stories
 
@@ -10,10 +10,10 @@ This is a simple exercise from part of free code camp back end certification
 
 # Example Usage
 
-  https://oasis-handle.glitch.me/August%2023,%202017
+  https://oasis-handle.glitch.me/August%2023,%202017<br />
   https://oasis-handle.glitch.me/1503483809
 
 # Example Output
 
-{"unix":1503446400,"natural":"August 23, 2017"}
+{"unix":1503446400,"natural":"August 23, 2017"}<br />
 {"unix":null,"natural":null}
